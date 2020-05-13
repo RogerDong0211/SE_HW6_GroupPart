@@ -1,5 +1,5 @@
-#include <iostream>
 #include "csv.h"
+#include <iostream>
 
 int main(){
     io::CSVReader<6> in("example.csv");
